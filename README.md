@@ -1,1 +1,1 @@
-# jacascript-notes
+# javascript-notes
