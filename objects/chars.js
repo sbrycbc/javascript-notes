@@ -21,3 +21,7 @@ const testObject =
 console.log(testObject["ist fahrbereit"]);
 console.log(testObject["hallo!"][0]);
 console.log(testObject.firstName);
+console.log(`my name is `, testObject.firstName)
+
+testObject.firstName = "Sabriye";
+console.log(testObject);
