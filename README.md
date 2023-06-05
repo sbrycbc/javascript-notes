@@ -38,7 +38,7 @@ The repository contains examples covering various aspects of JavaScript. Each ex
 2. [Loops](examples/loops)
 3. [Arrays](examples/arrays)
 4. [Functions](examples/functions)
-5. [Objects](examples/objects)
+5. [Objects]([examples/objects](https://github.com/sbrycbc/javascript-notes/tree/main/objects))
 
 Within each example directory, you will find explanations and sample code related to that particular topic. Feel free to explore the directories and examine the code based on the topic you are interested in.
 
