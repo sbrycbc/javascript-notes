@@ -34,7 +34,7 @@ cd javascript-notes
 
 The repository contains examples covering various aspects of JavaScript. Each example includes explanations and code snippets. Below is a list of the available examples:
 
-1. [Variables and Data Types](examples/variables-and-data-types)
+1. [Dom](https://github.com/sbrycbc/javascript-notes/tree/main/dom/document)
 2. [Loops](examples/loops)
 3. [Ifs](https://github.com/sbrycbc/javascript-notes/tree/main/if)
 4. [Functions](https://github.com/sbrycbc/javascript-notes/tree/main/functions)
