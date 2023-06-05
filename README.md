@@ -20,4 +20,6 @@ To run the examples locally on your computer, follow these steps:
 
 1. Clone this repository:
 
+https://github.com/sbrycbc/javascript-learning-repo.git
+
 
